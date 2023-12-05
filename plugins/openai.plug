@@ -1,0 +1,9 @@
+[Core]
+Name = OpenAI
+Module = openai
+
+[Documentation]
+Description = Interact with OpenAI ChatGPT.
+
+[Python]
+Version = 3
